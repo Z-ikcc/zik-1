@@ -24,7 +24,7 @@
             height: 100px;
             background-color: #668abd;
             border-radius: 15px;
-            background-image: url(images/logo.png);
+            background-image: url(img/logo.png);
             background-size: 100px 100px;
             background-repeat: no-repeat;
 
@@ -43,7 +43,9 @@
 <body>
     <div class="box">
         <div class="zhi">精勤博学，学以致用</div>
+		
     </div>
 </body>
 
 </html>
+
